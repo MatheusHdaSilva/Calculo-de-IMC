@@ -1,0 +1,3 @@
+O código foi criado para fazer o cálculo do IMC da pessoa, Ele começa exigindo os dados de altura e peso do indivíduo para prazer o cálculo. Fornecendo os dados ele multiplica a altura por ela msm elevando a altura ao quadrado, seguidamente o código divide o peso pela altura ao quadrado, dando resultado ao IMC da pessoa. 
+A partir daí ele irá identificar em qual classe a pessoa de encontra de acordo com esse resultado do cálculo, indicando se a pessoa está na classe. Obesidade mórbida, Obesa, Sobre peso, Peso ideal, Abaixo do peso. 
+Junto da indetificaçao, vem no final uma mensagem com blackgraund em uma cor diferente de acordo com as classe q a pessoa está. Cores vermelho, amarelo, azul, verde e ciano
